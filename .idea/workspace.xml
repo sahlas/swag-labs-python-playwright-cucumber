@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70291500-b380-408a-a93a-749ba4802cbb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/features/product_catalog_inventory_02.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/checkout_complete_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/checkout_information_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/checkout_line_item_page.py.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/checkout_overview_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/login_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/product_details_page.py.ignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/product_list_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/catalog/pageobjects/shopping_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/fixtures/screenshot_manager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/.github/workflows/build-test-publish.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/.pre-commit-config.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/pyproject.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/run.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/src/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/src/swag_labs_python_playwright_cucumber/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/src/swag_labs_python_playwright_cucumber/cities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/src/swag_labs_python_playwright_cucumber/states_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/tests/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/tests/consts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/tests/fixtures/example_fixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/tests/unit_tests/test_states_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber/version.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/features/steps/web_search_steps.p" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="31C1PwSoUXDDyeuhpxof8mACTR3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Behave.invalid_login.feature:Sally tries to log in with invalid credentials.executor": "Run",
+    "Behave.login.feature.executor": "Run",
+    "Behave.login.feature:Open Product Inventory Page.executor": "Run",
+    "Behave.login.feature:Sally tries to log in with invalid credentials.executor": "Run",
+    "Behave.login.feature:Successful login with valid credentials.executor": "Run",
+    "Behave.login.feature:Successful login.executor": "Run",
+    "Behave.login_validation.feature:Entering user details and checking for errors.executor": "Run",
+    "Behave.product_catalog_inventory.feature.executor": "Debug",
+    "Behave.product_catalog_inventory.feature:Open Product Inventory Page.executor": "Run",
+    "Behave.product_catalog_inventory.feature:Sally is ready to checkout her products.executor": "Run",
+    "Behave.product_catalog_inventory.feature:Sally proceeds to checkout with items in her cart and completes the order.executor": "Debug",
+    "Behave.product_catalog_inventory.feature:Sally sorts by different criteria after searching for a product.executor": "Run",
+    "Behave.product_catalog_inventory.feature:Sally views her cart.executor": "Debug",
+    "Behave.product_catalog_inventory_01.feature.executor": "Run",
+    "Behave.product_catalog_inventory_01.feature:Sally is ready to checkout her products.executor": "Debug",
+    "Behave.product_catalog_inventory_02.feature.executor": "Run",
+    "Behave.product_catalog_inventory_02.feature:Sally proceeds to checkout with items in her cart and completes the order.executor": "Debug",
+    "Behave.web_search.feature:Validating the search feature.executor": "Run",
+    "Behave.web_search.feature:Validation the search feature.executor": "Run",
+    "Behave.with_params.feature:Entering user details and checking for errors.executor": "Run",
+    "Behave.with_params.feature:Open Product Inventory Page.executor": "Run",
+    "Behave.with_params.feature:Successful login with valid credentials.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.playwright_behave_step_definitions.executor": "Debug",
+    "Python.shopping_cart.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Behave.product_catalog_inventory_01.feature:Sally is ready to checkout her products">
+    <configuration name="login_validation.feature:Entering user details and checking for errors" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="swag_lab_playwright_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/login_validation.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Entering user details and checking for errors" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_catalog_inventory_01.feature" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="swag_lab_playwright_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/product_catalog_inventory_01.feature" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_catalog_inventory_01.feature:Sally is ready to checkout her products" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="swag_lab_playwright_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/product_catalog_inventory_01.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Sally is ready to checkout her products" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="product_catalog_inventory_02.feature:Sally proceeds to checkout with items in her cart and completes the order" type="PyBehaveRunConfigurationType" factoryName="Behave" temporary="true">
+      <module name="swag_lab_playwright_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <WHAT_TO_RUN WHAT_TO_RUN="$PROJECT_DIR$/features/product_catalog_inventory_02.feature" />
+      <SCENRAIO_NAMES SCENRAIO_NAMES="Sally proceeds to checkout with items in her cart and completes the order" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="playwright_behave_step_definitions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swag_lab_playwright_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/features/steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/features/steps/playwright_behave_step_definitions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Behave.product_catalog_inventory_01.feature:Sally is ready to checkout her products" />
+        <item itemvalue="Behave.product_catalog_inventory_02.feature:Sally proceeds to checkout with items in her cart and completes the order" />
+        <item itemvalue="Behave.login_validation.feature:Entering user details and checking for errors" />
+        <item itemvalue="Python.playwright_behave_step_definitions" />
+        <item itemvalue="Behave.product_catalog_inventory_01.feature" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-PY-252.23892.515" />
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70291500-b380-408a-a93a-749ba4802cbb" name="Changes" comment="" />
+      <created>1755013219746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755013219746</updated>
+      <workItem from="1755013220782" duration="4412000" />
+      <workItem from="1755023312718" duration="177000" />
+      <workItem from="1755023502398" duration="11617000" />
+      <workItem from="1755091960353" duration="51000" />
+      <workItem from="1755092039007" duration="50542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/features/steps/playwright_behave_step_definitions.py</url>
+          <line>176</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$web_search_feature_Validation_the_search_feature.coverage" NAME="web_search.feature:Validation the search feature Coverage Results" MODIFIED="1755014345231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_01_feature_Sally_is_ready_to_checkout_her_products.coverage" NAME="product_catalog_inventory_01.feature:Sally is ready to checkout her products Coverage Results" MODIFIED="1755261116953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_02_feature.coverage" NAME="product_catalog_inventory_02.feature Coverage Results" MODIFIED="1755203850798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$web_search_feature_Validating_the_search_feature.coverage" NAME="web_search.feature:Validating the search feature Coverage Results" MODIFIED="1755025786614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$login_feature_Sally_tries_to_log_in_with_invalid_credentials.coverage" NAME="login.feature:Sally tries to log in with invalid credentials Coverage Results" MODIFIED="1755031278190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_01_feature.coverage" NAME="product_catalog_inventory_01.feature Coverage Results" MODIFIED="1755256142824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$with_params_feature_Successful_login_with_valid_credentials.coverage" NAME="with_params.feature:Successful login with valid credentials Coverage Results" MODIFIED="1755107942520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$with_params_feature_Entering_user_details_and_checking_for_errors.coverage" NAME="with_params.feature:Entering user details and checking for errors Coverage Results" MODIFIED="1755108618334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_feature_Sally_proceeds_to_checkout_with_items_in_her_cart_and_completes_the_order.coverage" NAME="product_catalog_inventory.feature:Sally proceeds to checkout with items in her cart and completes the order Coverage Results" MODIFIED="1755203152957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$with_params_feature_Open_Product_Inventory_Page.coverage" NAME="with_params.feature:Open Product Inventory Page Coverage Results" MODIFIED="1755108161030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$playwright_behave_step_definitions.coverage" NAME="playwright_behave_step_definitions Coverage Results" MODIFIED="1755257388916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/features/steps" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$login_feature.coverage" NAME="login.feature Coverage Results" MODIFIED="1755108225436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_feature.coverage" NAME="product_catalog_inventory.feature Coverage Results" MODIFIED="1755203442806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_feature_Open_Product_Inventory_Page.coverage" NAME="product_catalog_inventory.feature:Open Product Inventory Page Coverage Results" MODIFIED="1755116294150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_feature_Sally_views_her_cart.coverage" NAME="product_catalog_inventory.feature:Sally views her cart Coverage Results" MODIFIED="1755176007258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_02_feature_Sally_proceeds_to_checkout_with_items_in_her_cart_and_completes_the_order.coverage" NAME="product_catalog_inventory_02.feature:Sally proceeds to checkout with items in her cart and completes the order Coverage Results" MODIFIED="1755261018503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$invalid_login_feature_Sally_tries_to_log_in_with_invalid_credentials.coverage" NAME="invalid_login.feature:Sally tries to log in with invalid credentials Coverage Results" MODIFIED="1755095971974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$login_feature_Successful_login.coverage" NAME="login.feature:Successful login Coverage Results" MODIFIED="1755031467109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_feature_Sally_sorts_by_different_criteria_after_searching_for_a_product.coverage" NAME="product_catalog_inventory.feature:Sally sorts by different criteria after searching for a product Coverage Results" MODIFIED="1755189043154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$login_feature_Successful_login_with_valid_credentials.coverage" NAME="login.feature:Successful login with valid credentials Coverage Results" MODIFIED="1755107683944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$login_validation_feature_Entering_user_details_and_checking_for_errors.coverage" NAME="login_validation.feature:Entering user details and checking for errors Coverage Results" MODIFIED="1755259145604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$shopping_cart.coverage" NAME="shopping_cart Coverage Results" MODIFIED="1755172745165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/catalog/pageobjects" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$login_feature_Open_Product_Inventory_Page.coverage" NAME="login.feature:Open Product Inventory Page Coverage Results" MODIFIED="1755108324062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/swag_lab_playwright_python$product_catalog_inventory_feature_Sally_is_ready_to_checkout_her_products.coverage" NAME="product_catalog_inventory.feature:Sally is ready to checkout her products Coverage Results" MODIFIED="1755189576607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>

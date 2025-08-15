@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/swag-labs-python-playwright-cucumber.iml" filepath="$PROJECT_DIR$/swag-labs-python-playwright-cucumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swag_lab_playwright_python.iml" filepath="$PROJECT_DIR$/.idea/swag_lab_playwright_python.iml" />
     </modules>
   </component>
 </project>
